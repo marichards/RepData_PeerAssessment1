@@ -285,7 +285,8 @@ plot(x = names(daily_weekend),y = daily_weekend,type = "l", ylim = c(0,220),
 
 ![](PA1_template_files/figure-html/unnamed-chunk-16-1.png)<!-- -->
 
-Looking at these two plots, it's pretty clear that the individual has higher maximum number of steps during the weekday. However, it also looks like weekends have more medium-sized peaks in between the maximum and minimum activity levels. 
+Looking at these two plots, it's pretty clear that the individual has higher maximum number of steps during the weekday. However, it also looks like weekends have more medium-sized peaks in between the maximum and minimum activity levels.
+
 ## Conclusions
 
 We have examined the "activity_data.csv" dataset in a number of ways. Namely, we have:
